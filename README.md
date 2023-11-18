@@ -1,0 +1,1 @@
+# MATLAB-Center-of-Gravity-CoG-Calculation-of-an-Object
