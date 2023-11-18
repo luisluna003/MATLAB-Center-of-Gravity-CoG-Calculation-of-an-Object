@@ -1,6 +1,6 @@
 % Read the STL file
-% Replace 'Rocket_Main_Body.stl' with the path to your STL file
-[vertices, faces] = stlRead('C:\Users\luish\Downloads\MATLAB_VerticalLandingRocket_Visualization_3D_Models\L_wing_top.stl');
+% Replace '3Dmodel.stl' with the path to your STL file
+[vertices, faces] = stlRead('3Dmodel.stl');
 
 % Initialize variables for centroid and total area
 totalArea = 0;
